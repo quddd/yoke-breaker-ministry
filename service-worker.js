@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yoke-breaker-ministry/precache-manifest.0b904f214a3d315abc11bcb43264539e.js"
+  "/yoke-breaker-ministry/precache-manifest.164eaacfeb4dd7c72ba4328297efe3a6.js"
 );
 
 self.addEventListener('message', (event) => {
