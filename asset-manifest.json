@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yoke-breaker-ministry/static/css/main.d1b05096.chunk.css",
+    "main.js": "/yoke-breaker-ministry/static/js/main.6052e9db.chunk.js",
+    "main.js.map": "/yoke-breaker-ministry/static/js/main.6052e9db.chunk.js.map",
+    "runtime-main.js": "/yoke-breaker-ministry/static/js/runtime-main.5451e7cf.js",
+    "runtime-main.js.map": "/yoke-breaker-ministry/static/js/runtime-main.5451e7cf.js.map",
+    "static/js/2.600bb5bd.chunk.js": "/yoke-breaker-ministry/static/js/2.600bb5bd.chunk.js",
+    "static/js/2.600bb5bd.chunk.js.map": "/yoke-breaker-ministry/static/js/2.600bb5bd.chunk.js.map",
+    "index.html": "/yoke-breaker-ministry/index.html",
+    "precache-manifest.0b904f214a3d315abc11bcb43264539e.js": "/yoke-breaker-ministry/precache-manifest.0b904f214a3d315abc11bcb43264539e.js",
+    "service-worker.js": "/yoke-breaker-ministry/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/yoke-breaker-ministry/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.600bb5bd.chunk.js.LICENSE.txt": "/yoke-breaker-ministry/static/js/2.600bb5bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yoke-breaker-ministry/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5451e7cf.js",
+    "static/js/2.600bb5bd.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6052e9db.chunk.js"
+  ]
+}
