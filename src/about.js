@@ -5,7 +5,7 @@ import { Image } from "react-bootstrap";
 class About extends React.Component {
   render() {
     return (
-      <div className="about">
+      <div className="about" id="about">
         <div className="aboutpage">
           <div className="about-p">
             <h1>What does this book mean to me?</h1>

@@ -12,7 +12,7 @@ class Contact extends React.Component {
 
   render() {
     return (
-      <div className="Contact">
+      <div className="Contact" id="contact">
         <h3>Leave a comment or question</h3>
         <form
           id="contact-form"

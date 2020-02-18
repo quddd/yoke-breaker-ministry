@@ -92,9 +92,6 @@
   .homepage {
     flex-direction: column;
   }
-  .homepage-info {
-    order: initial;
-  }
   .aboutpage {
     flex-direction: column;
   }
