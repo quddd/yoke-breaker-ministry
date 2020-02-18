@@ -87,3 +87,15 @@
   text-align: left;
   font-size: calc(10px + 1vmin);
 }
+
+@media (max-width: 800px) {
+  .homepage {
+    flex-direction: column;
+  }
+  .homepage-info {
+    order: initial;
+  }
+  .aboutpage {
+    flex-direction: column;
+  }
+}

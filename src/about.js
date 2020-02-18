@@ -7,9 +7,9 @@ class About extends React.Component {
     return (
       <div className="about">
         <div className="aboutpage">
-          <div>
+          <div className="about-p">
             <h1>What does this book mean to me?</h1>
-            <p style={{ marginRight: "10vw" }}>
+            <p>
               Many people go about daily performing their day to day tasks in a
               never-ending cycle of defeats without seeing the end. Writing THE
               POWER OF THE YOKES is not a sign of the end of my struggles or a

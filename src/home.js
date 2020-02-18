@@ -5,13 +5,11 @@ class Home extends React.Component {
   render() {
     return (
       <div className="homepage">
-        <div>
-          <img
-            src={Backpage}
-            alt=" Back page of Book"
-            style={{ height: "90vh" }}
-          />
-        </div>
+        <img
+          src={Backpage}
+          alt=" Back page of Book"
+          style={{ height: "100vh" }}
+        />
         <div className="homepage-info">
           <h1>The Power of the Yoke!</h1>
           <p>
