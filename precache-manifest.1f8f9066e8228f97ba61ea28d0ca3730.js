@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db0826de13ef56b72bbc989ff59328e0",
+    "revision": "503482d2b964849dca74b6fc8d690869",
     "url": "/yoke-breaker-ministry/index.html"
   },
   {
-    "revision": "d30e452f6ec853fc17ec",
-    "url": "/yoke-breaker-ministry/static/css/main.3541b2ff.chunk.css"
+    "revision": "06f05883a94143c40bb5",
+    "url": "/yoke-breaker-ministry/static/css/main.d77877b4.chunk.css"
   },
   {
     "revision": "d3f62da00d25a1db3a65",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yoke-breaker-ministry/static/js/2.6b30de10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d30e452f6ec853fc17ec",
-    "url": "/yoke-breaker-ministry/static/js/main.287186b9.chunk.js"
+    "revision": "06f05883a94143c40bb5",
+    "url": "/yoke-breaker-ministry/static/js/main.d739327d.chunk.js"
   },
   {
     "revision": "fb3bf3b069591e45878c",
