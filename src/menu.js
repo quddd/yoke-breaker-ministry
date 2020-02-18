@@ -6,7 +6,13 @@ class Menu extends React.Component {
   render() {
     return (
       <div className="navigation-bar">
-        <Navbar fixed="top" bg="dark" variant="dark">
+        <Navbar
+          collapseOnSelect
+          expand="sm"
+          fixed="top"
+          bg="dark"
+          variant="dark"
+        >
           <Navbar.Brand>The Yoke Breaker Ministry</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse
