@@ -88,6 +88,14 @@
   font-size: calc(10px + 1vmin);
 }
 
+.Mmedia {
+  padding: 5vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  font-size: calc(10px + 1vmin);
+}
 @media (max-width: 800px) {
   .homepage {
     flex-direction: column;

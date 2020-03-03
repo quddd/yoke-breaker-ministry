@@ -37,8 +37,13 @@ class About extends React.Component {
             </p>
           </div>
           <div>
-            <Image src={Authorpic} alt=" Carlton Foster" rounded />
-            <h3> Pastor Carlton Foster</h3>
+            <Image
+              src={Authorpic}
+              alt=" Carlton Foster"
+              style={{ maxWidth: "90vw" }}
+              rounded
+            />
+            <h3> Minister Carlton</h3>
           </div>
         </div>
         <div className="about-accomplish">

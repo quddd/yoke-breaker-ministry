@@ -1,5 +1,6 @@
 import React from "react";
 import Backpage from "./image.png";
+import Button from "react-bootstrap/Button";
 
 class Home extends React.Component {
   render() {
@@ -10,7 +11,7 @@ class Home extends React.Component {
           <h3>By Carlton Foster</h3>
           <a href="https://www.authorhouse.com/en/bookstore/bookdetails/782120-the-power-of-the-yokes">
             {" "}
-            Purchase Now{" "}
+            <Button>Purchase Now</Button>
           </a>
         </div>
         <img
